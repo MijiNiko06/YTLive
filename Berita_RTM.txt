@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Berita RTM | Malaysia | https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png | 
+https://www.youtube.com/channel/UCQmw1BwYx7s0vQTK5AD_pyg/live
