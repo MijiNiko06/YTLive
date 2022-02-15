@@ -39,7 +39,7 @@ jobs:
         run: |
           pwd
           chmod +x autorun_awani.sh
-          ./autorun.sh
+          ./autorun_awani.sh
       - name: git add
         run: |
           git add -A
