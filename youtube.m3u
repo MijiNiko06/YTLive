@@ -12,4 +12,4 @@
 
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" tvg-id="", Bernama TV Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653092296/ei/aNuHYsmFAZCXkwaj347YBg/ip/20.237.208.85/id/ZQ9zj6ubJ8M.1/source/yt_live_broadcast/requiressl/yes/tx/24193953/txs/24193952%2C24193953%2C24193954/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1BAFxrHXorO1Bc8t0yQ3wp0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOUeoi8MIQ8Pg0ehnkhbg7ohfeyInaMVhoQZNq0k3nxoCIQDPE6L1fr4UCbtwgIrGbrDjqxq-o_bo43Kg2xDTmqDD5g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
