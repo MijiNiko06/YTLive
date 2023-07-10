@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator
+name: Berita RTM
 
 # Controls when the action will run. 
 on:
@@ -35,16 +35,19 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+
       - name: Main
         run: |
           pwd
-          chmod +x autorun_awani.sh
+          chmod +x autorun.sh
           ./autorun_beritartm.sh
+
       - name: git add
         run: |
           git add -A
           ls -la
+
       - name: commit & push
         run: |
-          git commit -m "Telah dikemaskini"
+          git commit -m "links are updated"
           git push
