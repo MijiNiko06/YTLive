@@ -39,7 +39,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
+          chmod +x autorun_beritartm.sh
           ./autorun_beritartm.sh
 
       - name: git add
