@@ -1,1 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Mekkah Live | Mecca | https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg | 
+https://www.youtube.com/@SaudiQuranTv/live
