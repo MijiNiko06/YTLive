@@ -12,4 +12,4 @@
 
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png" tvg-id="", Berita RTM
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714201389/ei/zU4sZvnaDsGiy_sPxc-FqA4/ip/20.109.36.211/id/69MAPUlBvTI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066120/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6svZ0HXQBoOi1gZqFWX7dAr5-nbC5yRKLGeALSd7ecwVhb5ULtpAVqF/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPWVBdweqs1H1Arbe6Wwt09VlxpQzg63rDiCI7_efX2IAiBu0zU5iOtRUrHSTSjArODNLd5hQ8hLVldldoImaY8D-w%3D%3D/file/index.m3u8
