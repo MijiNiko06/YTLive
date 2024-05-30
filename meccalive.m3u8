@@ -12,4 +12,4 @@
 
 
 #EXTINF:-1 group-title="Mecca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg" tvg-id="", Mekkah Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717093095/ei/h25YZoa2DvjbsfIPu92Q4A4/ip/52.159.142.195/id/moQtMet7F7w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2J6WM3BO4FRJgGY9bUG6LKvuzp7qOFNqyoU974ZoNDJFWDjzaWqwdBGYEc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYveEEHQZCIykw9bjZ6Y8hkX-NZAij4FYriimVjIbjIICIQC7U-VRMEdO-6wiq1mvCjloGFk8yQOotngpaLs864G6LA%3D%3D/file/index.m3u8
