@@ -12,4 +12,4 @@
 
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" tvg-id="", Bernama TV Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723151648/ei/wOC0ZpzhE8qLsfIPrYLV2Ac/ip/52.234.38.73/id/0F53Ps27Nfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9gQn55SXvtNIF_uIZNDEteTnC0hu2HErLvp2H2CUCKlHYsuhJaLaWZK4xNk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKtnP7wnoQUcMgJZaGNQRZSROinbY2ZTu1zeeOeo6f_nAiEAu7sPrs5BiEXmbyMv8YIVcMbz3S5gvlfG0_T9HlTOqiU%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
